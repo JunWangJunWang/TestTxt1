@@ -1,2 +1,5 @@
-this 3rd
-try try
+cd /C/Users/Jun_Wang/Documents/ACLtraining/GIT
+update1
+update2asdfsdf
+
+you need to add everytime
