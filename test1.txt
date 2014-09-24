@@ -1,10 +1,4 @@
-Git Dummy 2014/09/23
-abcdef
-asdfsdfsdf
-a
-sd
-fsasdfsadf
-f
+this test1 change
 s
 dfs
 dfs
